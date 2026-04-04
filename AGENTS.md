@@ -1,0 +1,1 @@
+/Users/iandreytsev/.agents/DEV-RULES.md
